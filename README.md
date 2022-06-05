@@ -10,3 +10,5 @@
 #####  3. Chart 3 is a bubble cahrt that shows the bacteria cultures per sample of each bacteria in the belly button.
 ---
 #### https://yfaulkne.github.io/plotly_/
+---
+![](https://github.com/yfaulkne/plotly_/blob/main/static/images/homepage.png)
