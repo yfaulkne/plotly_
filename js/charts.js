@@ -53,7 +53,7 @@ function buildMetadata(sample) {
   });
 }
 
-// DELIVERABLE 1 Requirements
+
 // Create a Horizontal Bar Chart
 
 // 1. Create the buildCharts function.
@@ -99,7 +99,7 @@ function buildCharts(sample) {
     Plotly.newPlot("bar", barData, barLayout);
 
 
-// DELIVERABLE 2 Requirements
+// Deliverable 2
 // Create a Bubble Chart
 
 
@@ -127,7 +127,7 @@ function buildCharts(sample) {
     // 3. Use Plotly to plot the data with the layout.
     Plotly.newPlot("bubble", bubbleData, bubbleLayout)
 
-// DELIVERABLE 3 Requirements
+// Deliverable 3
 // Create a Gauge Chart
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
