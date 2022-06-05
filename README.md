@@ -12,3 +12,4 @@
 #### https://yfaulkne.github.io/plotly_/
 ---
 ![](https://github.com/yfaulkne/plotly_/blob/main/static/images/homepage.png)
+![](https://github.com/yfaulkne/plotly_/blob/main/static/images/bubble%20chart.png)
